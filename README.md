@@ -7,8 +7,8 @@ SystemC and Virtual Prototyping is a course that gives a comprehensive introduct
 #### Lecture 1: C++ and Introduction to Virtual Prototyping
 #### Lecture 2: SystemC Basics
 #### Lecture 3: SystemC Advanced
-### Lecture 4: Transaction-level modeling (TLM) Basics
-### Lecture 5: Transaction-level modeling (TLM) Advance
+#### Lecture 4: Transaction-level modeling (TLM) Basics
+#### Lecture 5: Transaction-level modeling (TLM) Advance
 
 
 ## License
